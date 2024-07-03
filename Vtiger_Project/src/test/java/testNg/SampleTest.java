@@ -6,6 +6,7 @@ import org.testng.annotations.Test;
 public class SampleTest {
 
 	//Welcome
+	//hello
 	public void createProduct()
 	{
 	System.out.println("product created");	
@@ -22,5 +23,5 @@ public class SampleTest {
 	{
 		System.out.println("product deleted");
 	}
-	//pull
+	
 }
