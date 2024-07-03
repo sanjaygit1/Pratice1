@@ -5,6 +5,7 @@ import org.testng.annotations.Test;
 
 public class SampleTest {
 
+	//Welcome
 	public void createProduct()
 	{
 	System.out.println("product created");	
